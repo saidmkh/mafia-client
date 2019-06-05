@@ -1,0 +1,14 @@
+{
+  "extends": ["tslint:latest", "tslint-react"],
+  "rules": {
+    "quotemark": [true, "single"],
+    "indent": [true, "spaces", 2],
+    "no-consecutive-blank-lines": false,
+    "semicolon": [true, "always"],
+    "no-console": false,
+    "jsx-no-multiline-js": false,
+    "curly": false,
+    "jsx-no-lambda": false,
+    "member-access": false
+  }
+}
